@@ -11,7 +11,7 @@ pipeline {
 
         stage('Test') {
             steps {
-                echp 'testing the applications...'
+                ech0 'testing the applications...'
             }
         }
 
